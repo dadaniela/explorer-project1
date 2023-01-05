@@ -2,4 +2,4 @@ Explorer is a series of different projects to learn web development from HTML an
 
 ### Project 01
 
-You can access the final result [here] (https://dadaniela.github.io/explorer-project1/)
+You can access the final result [here](https://dadaniela.github.io/explorer-project1/)
